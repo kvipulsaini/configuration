@@ -1,3 +1,6 @@
+spring:
+  application:
+    name: GITHUB test
 eureka:
   instance:
     prefer-ip-address: true
